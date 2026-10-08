@@ -1,0 +1,9 @@
+# Job Hunting — Job Intelligence Pipeline
+# Web scraping (upstream spiders)
+scrapy
+
+# Vacancy evidence extraction and application grouping
+pandas
+
+# Interactive prospect review (09_grade_prospects.py)
+streamlit
