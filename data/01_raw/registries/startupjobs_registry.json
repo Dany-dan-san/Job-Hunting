@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "plan_signature": "e8c43f16944e51b6454b9098ce33b1b2f7a58da0b896aa1d2484f7891490f177",
+  "completed": true,
+  "updated_at": "2026-10-07T14:30:44+02:00",
+  "current_search_index": 0,
+  "current_search_clicks": 15,
+  "total_load_more_clicks": 15,
+  "completed_searches": 1,
+  "listings_seen_total": 318,
+  "next_long_break_at": 500,
+  "new_jobs": 38,
+  "duplicate_jobs": 280,
+  "resume_url": null,
+  "visited_urls": [
+    "https://www.startupjobs.cz/nabidky/back-end-vyvojar,data-analytik,data-engineer,data-scientist,machine-learning,programator?lokalita=Praha:ChIJi3lwCZyTC0cRkEAWZg-vAAQ:20km"
+  ]
+}

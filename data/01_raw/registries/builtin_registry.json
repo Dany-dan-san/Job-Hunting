@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "plan_signature": "5418f88d02ff38950ace10f6e168463cdb952b992f6d544546a90ce0fccdcf93",
+  "completed": true,
+  "updated_at": "2026-10-07T12:38:52+02:00",
+  "start_url": "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true",
+  "search_urls": [
+    "https://builtin.com/jobs/data-analytics?city=Prague&state=Prague&country=CZE&allLocations=true",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true"
+  ],
+  "current_search_index": 1,
+  "current_page": 22,
+  "total_pages": 30,
+  "listings_seen_total": 267,
+  "next_long_break_at": 500,
+  "new_jobs": 25,
+  "duplicate_jobs": 242,
+  "resume_url": null,
+  "visited_urls": [
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=2",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=3",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=4",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=5",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=6",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=7",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=8",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=9",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=10",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=11",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=12",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=13",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=14",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=15",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=16",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=17",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=18",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=19",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=20",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=21",
+    "https://builtin.com/jobs/engineering/software-engineering?city=Prague&state=Prague&country=CZE&allLocations=true&page=22"
+  ]
+}

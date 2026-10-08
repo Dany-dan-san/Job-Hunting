@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "plan_signature": "0e3d14c53f10876436f051c0eafd3020ad3ff5a2220cddb6356cae52a30b2e02",
+  "completed": true,
+  "updated_at": "2026-10-07T14:12:43+02:00",
+  "current_search_index": 2,
+  "current_search_page": 1,
+  "total_pages": 15,
+  "completed_searches": 3,
+  "listings_seen_total": 262,
+  "next_long_break_at": 500,
+  "new_jobs": 47,
+  "duplicate_jobs": 215,
+  "resume_url": null,
+  "visited_urls": [
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=2",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=3",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=4",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=5",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=6",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=7",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=8",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=9",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=10",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=11",
+    "https://www.jobstack.it/it-jobs?location=Praha&isDetail=0&page=12",
+    "https://www.jobstack.it/it-jobs?positiontype=1&location=Praha&isDetail=0",
+    "https://www.jobstack.it/it-jobs?positiontype=1&location=Praha&isDetail=0&page=2",
+    "https://www.jobstack.it/it-jobs?positiontype=79&location=Praha&isDetail=0"
+  ]
+}

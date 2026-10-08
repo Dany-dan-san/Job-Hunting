@@ -1,0 +1,29 @@
+﻿Section,Category,Count
+Review Priority,High,166
+Review Priority,Good,208
+Review Priority,Exploratory,527
+Review Priority,Senior/Leadership Stretch,137
+Review Priority,Deprioritized,3631
+Review Priority,Exclude,1
+Primary Track,Data Science & Machine Learning,257
+Primary Track,Customer/Market/Pricing Insights,22
+Primary Track,Data Engineering & Automation,144
+Primary Track,Core Data & Analytics,132
+Primary Track,Business/Product Analysis,188
+Primary Track,Python/Software Development,447
+Primary Track,Adjacent Technical,189
+Primary Track,Other,3291
+Output Queue,00_all_jobs_scored.csv,4670
+Output Queue,01_priority_review.csv,374
+Output Queue,02_data_science_ml.csv,157
+Output Queue,03_data_analytics.csv,104
+Output Queue,04_data_engineering_automation.csv,81
+Output Queue,05_business_product_analysis.csv,142
+Output Queue,06_customer_market_pricing_insights.csv,17
+Output Queue,07_python_sql_technical.csv,290
+Output Queue,08_junior_entry_watchlist.csv,472
+Output Queue,09_french_language_advantage.csv,9
+Output Queue,10_newly_mined.csv,307
+Output Queue,11_senior_leadership_stretch.csv,137
+Output Queue,12_manual_review.csv,3280
+Output Queue,13_deprioritized_or_excluded.csv,3632
